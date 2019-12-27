@@ -11,7 +11,8 @@ There are two folders namely 'Dataset' and 'Architectures'. **Datasets** is used
 ## Results
 All the experiments and results can be found in the thesis report. 
 
-
+## Poster Presentation
+The results of this work were showcased at the **17th NVP Winter Conference on Brain and Cognition that took place in Hotel Zuiderduin, Egmond aan Zee, the Netherlands, from December 19-21, 2019.**
 
 
 
